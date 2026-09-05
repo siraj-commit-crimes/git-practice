@@ -1,3 +1,4 @@
 ﻿Hello Git - MAIN VERSION
+Hello Git - CONFLICT BRANCH VERSION
 New feature line
 Edited on GitHub
